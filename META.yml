@@ -1,0 +1,31 @@
+---
+abstract: 'Perl module to generate random data'
+author:
+  - 'Adekunle Olonoh, koolade@users.sourceforge.net'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+  File::Spec: 0
+  Test: 0
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.01'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Data-Random
+no_index:
+  directory:
+    - inc
+    - t
+recommends:
+  Date::Calc: 0
+  GD: 0
+requires:
+  Carp: 0
+  perl: 5.00562
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.05_01
