@@ -1,7 +1,7 @@
 ---
 abstract: 'Perl module to generate random data'
 author:
-  - 'Adekunle Olonoh, koolade@users.sourceforge.net'
+  - 'Originally written by: Adekunle Olonoh'
 build_requires:
   ExtUtils::MakeMaker: 6.42
   File::Spec: 0
@@ -28,4 +28,4 @@ requires:
   perl: 5.00562
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.05_01
+version: 0.05_02
