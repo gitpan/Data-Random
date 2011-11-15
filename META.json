@@ -1,0 +1,48 @@
+{
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "resources" : {
+      "homepage" : "https://github.com/barefootcoder/Data-Random/tree",
+      "repository" : {
+         "web" : "https://github.com/barefootcoder/Data-Random/tree",
+         "url" : "git://github.com/barefootcoder/Data-Random.git",
+         "type" : "git"
+      },
+      "license" : "http://dev.perl.org/licenses/"
+   },
+   "meta-spec" : {
+      "version" : 1.4,
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
+   },
+   "generated_by" : "Module::Install version 1.01 using Module::Install::JSONMETA version 7.001",
+   "distribution_type" : "module",
+   "version" : "0.06",
+   "name" : "Data-Random",
+   "author" : [
+      "Originally written by: Adekunle Olonoh"
+   ],
+   "license" : "perl",
+   "build_requires" : {
+      "Test::More" : "0.88",
+      "ExtUtils::MakeMaker" : 6.42,
+      "File::Spec" : 0,
+      "Test" : 0
+   },
+   "requires" : {
+      "perl" : "5.00562",
+      "Carp" : 0
+   },
+   "recommends" : {
+      "Date::Calc" : 0,
+      "GD" : 0
+   },
+   "abstract" : "Perl module to generate random data",
+   "configure_requires" : {
+      "ExtUtils::MakeMaker" : 6.42
+   }
+}
+
