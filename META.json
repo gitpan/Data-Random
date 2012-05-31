@@ -18,9 +18,9 @@
       "version" : 1.4,
       "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
    },
-   "generated_by" : "Module::Install version 1.04 using Module::Install::JSONMETA version 7.001",
+   "generated_by" : "Module::Install version 1.06 using Module::Install::JSONMETA version 7.001",
    "distribution_type" : "module",
-   "version" : "0.06_01",
+   "version" : "0.06_02",
    "name" : "Data-Random",
    "author" : [
       "Originally written by: Adekunle Olonoh"
@@ -43,6 +43,7 @@
    },
    "abstract" : "Perl module to generate random data",
    "configure_requires" : {
+      "YAML::Tiny" : 0,
       "ExtUtils::MakeMaker" : 6.36
    }
 }
