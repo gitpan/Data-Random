@@ -20,7 +20,7 @@
    },
    "generated_by" : "Module::Install version 1.06 using Module::Install::JSONMETA version 7.001",
    "distribution_type" : "module",
-   "version" : "0.06_02",
+   "version" : "0.07",
    "name" : "Data-Random",
    "author" : [
       "Originally written by: Adekunle Olonoh"

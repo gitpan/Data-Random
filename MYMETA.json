@@ -46,12 +46,12 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "homepage" : "https://github.com/barefootcoder/Data-Random/tree",
       "license" : [
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.06_02"
+   "version" : "0.07"
 }
