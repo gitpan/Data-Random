@@ -9,7 +9,7 @@
       "homepage" : "https://github.com/barefootcoder/Data-Random/tree",
       "repository" : {
          "web" : "https://github.com/barefootcoder/Data-Random/tree",
-         "url" : "git://github.com/barefootcoder/Data-Random.git",
+         "url" : "https://github.com/barefootcoder/Data-Random.git",
          "type" : "git"
       },
       "license" : "http://dev.perl.org/licenses/"
@@ -20,7 +20,7 @@
    },
    "generated_by" : "Module::Install version 1.06 using Module::Install::JSONMETA version 7.001",
    "distribution_type" : "module",
-   "version" : "0.07",
+   "version" : "0.07_001",
    "name" : "Data-Random",
    "author" : [
       "Originally written by: Adekunle Olonoh"
