@@ -4,7 +4,7 @@
       "Originally written by: Adekunle Olonoh"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.06 using Module::Install::JSONMETA version 7.001, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Module::Install version 1.06 using Module::Install::JSONMETA version 7.001, CPAN::Meta::Converter version 2.131560",
    "license" : [
       "perl_5"
    ],
@@ -51,7 +51,11 @@
       "homepage" : "https://github.com/barefootcoder/Data-Random/tree",
       "license" : [
          "http://dev.perl.org/licenses/"
-      ]
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/barefootcoder/Data-Random.git"
+      }
    },
-   "version" : "0.08"
+   "version" : "0.09"
 }
