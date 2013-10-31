@@ -24,4 +24,4 @@ no_index:
 requires:
   Carp: 0
   perl: 5.00562
-version: 0.09_01
+version: 0.10

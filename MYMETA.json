@@ -46,7 +46,7 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "homepage" : "https://github.com/barefootcoder/Data-Random/tree",
       "license" : [
@@ -57,5 +57,5 @@
          "url" : "git://github.com/barefootcoder/Data-Random.git"
       }
    },
-   "version" : "0.09_01"
+   "version" : "0.10"
 }
